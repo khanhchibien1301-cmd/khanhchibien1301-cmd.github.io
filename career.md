@@ -81,45 +81,28 @@ Chúng tôi đang tìm kiếm **Data Scientist** có khả năng phân tích và
 * Môi trường làm việc hợp tác.
 * Được tiếp cận các công cụ Data và AI hiện đại.
 
-- Tin tuyển dụng thật ra viết:
-Yêu cầu:
-1 năm kinh nghiệm chuyên môn
-Đại Học trở lên
-Chuyên môn: Backend Developer
-Mô tả công việc: Develop, maintain, and optimize back-end applications using C#, .NET Framework/Core, and SQL Server.
-Design and implement RESTful APIs and microservices to support web and mobile applications.
-Ensure high performance, security, and scalability of applications.
-Work closely with front-end developers, QA teams, and other stakeholders to deliver high-quality solutions.
-Debug, troubleshoot, and enhance existing applications.
-Participate in code reviews and continuously improve system architecture and performance.
-Yêu cầu ứng viên
-[Required]
+- Tin tuyển dụng thật ra viết: ## Chuyên môn: data Scientist
+## Mô tả công việc: khai phá dữ liệu, phân tích chuyên sâu, xây dựng và làm giàu kho dữ liệu đặc trưng, phát triển mô hình phục vụ kinh doanh (tiềm năng bán, upsale, cross sale, chống churn ...)
+Tham gia và báo cáo lãnh đạo dự án, lãnh đạo khối các dự án về công tác xây dựng mô hình phân tích dữ liệu được phân công
+## Yêu cầu:
+* Cử nhân chuyên ngành kinh tế, tài chính, ngân hàng, khoa học dữ liệu, khoa học máy tính, thống kê, Toán tin... hoặc các chuyên ngành liên quan
+* Ưu tiên có chứng chỉ hoặc có kinh nghiệm sử dụng thành thạo ngôn ngữ, công cụ xử lý dữ liệu lớn, và các chứng chỉ kĩ năng về khoa học dữ liệu: Data science, Data engieering, Data analysis, Python, Spark, SQL, Tableau, Power BI, Oracle, Data visualization
+* Tối thiểu có kinh nghiệm 02 năm phân tích dữ liệu, khoa học máy tính hoặc các vị trí tương đương làm việc với dữ liệu lớn, có kinh nghiệm xây dựng các mô hình dự đoán, học máy
+* Có năng lực lập trình sử dụng những ngôn ngữ phổ biến trong xử lý dữ liệu như Python, R, Matlab, Sql,...
+* Có kinh nghiệm tương tác, sử dụng, phát triển, xử lý dữ liệu trên các hệ thống dữ liệu lớn hoặc các công cụ xử lý dữ liệu lớn Spark, Hadoop, S3 storage...
+* Có hiểu biết về các thuật toán nói chung, đặc biệt các thuật toán học máy.
+* Hiểu và sử dụng kiến thức thống kê, toán học ứng dụng trong quản lý chất lượng và phát triển mô hình.
+* Ưu tiên có hiểu biết hoặc đã sử dụng các thuật toán khai phá dữ liệu trong thực tế.
+* Có kinh nghiệm sử dụng các công cụ trực quan hóa dữ liệu, matplotlib, tableau,...
+* Có tư duy logic tốt, có khả năng thiết kế, giải quyết các bài toán, vấn đề liên quan đến dữ liệu và sử dụng dữ liệu.
+## Quyền lợi :1. Chế độ Thưởng hấp dẫn:
+Thưởng dịp lễ tết
+Thưởng thành tích gắn với hiệu suất công việc/kết quả kinh doanh
+2. Chế độ phúc lợi vượt trội:
+Đãi ngộ gắn kết (Tặng quà sinh nhật, quà tết nguyên đán, đãi ngộ thâm niên.....)
+Bảo hiểm chăm sóc sức khỏe cho CBNV/người thân với các đặc quyền độc đáo
+Du lịch/nghỉ dưỡng hằng năm trong nước & nước ngoài
 
-1+ years of experience in back-end development with C# and .NET (Framework/Core).
-Solid knowledge of SQL Server, database design, and optimization.
-Experience with RESTful API development and integration.
-Understanding of OOP, SOLID principles, and design patterns.
-Familiarity with Agile/Scrum development methodologies.
-Strong problem-solving skills and ability to work in a team.
-[Preferred]
-
-Experience with Entity Framework, Dapper, or other ORM frameworks.
-Knowledge of cloud services (Azure, AWS, GCP).
-Familiarity with CI/CD pipelines and DevOps practices.
-Experience in containerization technologies like Docker, Kubernetes.
-
-Quyền lợi ứng viên:
-Attractive salary and bonus will be discussed after going through CV & Interview
-Topik allowance
-Review capacity annually and adjust salary increases according to work performance.
-Health care: Premium health insurance, Annual health check-up
-Young working environment
-Good career development opportunities with interesting and challenging projects.
-English, Korean, technical, soft skills training courses.
-Opportunity to learn special courses from LG CNS, new technology and security.
-Gifts on holidays (April 30th - May 1st, September 2nd, Tet, etc.)
-Outdoor activities with company support: sports clubs, team building, happy hour parties, birthdays, travel, employee and family events, etc.
-Working hours: 8 hours from Monday - Friday (8 hours/day)
 - Tôi sửa thành: # TUYỂN DỤNG DATA SCIENTIST
 
 **Địa điểm:** Đà Nẵng, Việt Nam 
