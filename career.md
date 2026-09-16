@@ -31,15 +31,249 @@ Vì sao: trước hết chúng ta đang dần bước vào kỷ nguyên AI AGENT
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: # TUYỂN DỤNG DATA SCIENTIST
+
+**Địa điểm:** Đà Nẵng, Việt Nam
+**Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
+
+## Mô tả công việc
+
+Chúng tôi đang tìm kiếm **Data Scientist** có khả năng phân tích và tư duy logic tốt để biến dữ liệu thành những thông tin có giá trị và hỗ trợ doanh nghiệp đưa ra quyết định. Bạn sẽ làm việc với dữ liệu lớn, xây dựng các mô hình thống kê và Machine Learning, đồng thời trình bày kết quả cho cả đội ngũ kỹ thuật và kinh doanh.
+
+## Trách nhiệm
+
+* Thu thập, làm sạch, biến đổi và phân tích dữ liệu.
+* Khám phá dữ liệu để tìm ra xu hướng, mô hình và mối quan hệ.
+* Xây dựng các mô hình thống kê và Machine Learning.
+* Thiết kế và đánh giá các thử nghiệm, mô hình dự đoán.
+* Xây dựng biểu đồ và dashboard để trực quan hóa dữ liệu.
+* Chuyển các câu hỏi kinh doanh thành bài toán dữ liệu.
+* Phối hợp với Software Engineer, Product Manager và các bộ phận khác.
+* Trình bày kết quả phân tích cho các bên liên quan.
+* Theo dõi hiệu suất mô hình và cải thiện các giải pháp hiện có.
+
+## Yêu cầu
+
+* Tốt nghiệp hoặc đang theo học **Data Science, Computer Science, Statistics, Mathematics, Economics** hoặc ngành liên quan.
+* Thành thạo **Python hoặc R**.
+* Có kiến thức tốt về **Statistics và Probability**.
+* Có khả năng sử dụng **SQL** và làm việc với cơ sở dữ liệu.
+* Biết sử dụng các thư viện như **Pandas, NumPy, Matplotlib**.
+* Có kiến thức cơ bản về Machine Learning.
+* Có khả năng phân tích và giải quyết vấn đề.
+* Có khả năng trình bày những vấn đề kỹ thuật một cách dễ hiểu.
+
+## Điểm cộng
+
+* Biết Scikit-learn, PyTorch hoặc TensorFlow.
+* Biết sử dụng Power BI hoặc Tableau.
+* Có kiến thức về **A/B Testing và Experimental Design**.
+* Có kinh nghiệm với Cloud.
+* Biết các công nghệ xử lý dữ liệu lớn như Spark.
+* Có dự án cá nhân hoặc đồ án liên quan đến dữ liệu.
+
+## Quyền lợi
+
+* Mức lương cạnh tranh.
+* Được làm việc với dữ liệu thực tế.
+* Được đào tạo và hướng dẫn chuyên môn.
+* Có cơ hội phát triển nghề nghiệp.
+* Môi trường làm việc hợp tác.
+* Được tiếp cận các công cụ Data và AI hiện đại.
+
+- Tin tuyển dụng thật ra viết:
+Yêu cầu:
+1 năm kinh nghiệm chuyên môn
+Đại Học trở lên
+Chuyên môn: Backend Developer
+Mô tả công việc: Develop, maintain, and optimize back-end applications using C#, .NET Framework/Core, and SQL Server.
+Design and implement RESTful APIs and microservices to support web and mobile applications.
+Ensure high performance, security, and scalability of applications.
+Work closely with front-end developers, QA teams, and other stakeholders to deliver high-quality solutions.
+Debug, troubleshoot, and enhance existing applications.
+Participate in code reviews and continuously improve system architecture and performance.
+Yêu cầu ứng viên
+[Required]
+
+1+ years of experience in back-end development with C# and .NET (Framework/Core).
+Solid knowledge of SQL Server, database design, and optimization.
+Experience with RESTful API development and integration.
+Understanding of OOP, SOLID principles, and design patterns.
+Familiarity with Agile/Scrum development methodologies.
+Strong problem-solving skills and ability to work in a team.
+[Preferred]
+
+Experience with Entity Framework, Dapper, or other ORM frameworks.
+Knowledge of cloud services (Azure, AWS, GCP).
+Familiarity with CI/CD pipelines and DevOps practices.
+Experience in containerization technologies like Docker, Kubernetes.
+
+Quyền lợi ứng viên:
+Attractive salary and bonus will be discussed after going through CV & Interview
+Topik allowance
+Review capacity annually and adjust salary increases according to work performance.
+Health care: Premium health insurance, Annual health check-up
+Young working environment
+Good career development opportunities with interesting and challenging projects.
+English, Korean, technical, soft skills training courses.
+Opportunity to learn special courses from LG CNS, new technology and security.
+Gifts on holidays (April 30th - May 1st, September 2nd, Tet, etc.)
+Outdoor activities with company support: sports clubs, team building, happy hour parties, birthdays, travel, employee and family events, etc.
+Working hours: 8 hours from Monday - Friday (8 hours/day)
+- Tôi sửa thành: # TUYỂN DỤNG DATA SCIENTIST
+
+**Địa điểm:** Đà Nẵng, Việt Nam 
+** thời gian làm việc: Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)
+**Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
+
+## Mô tả công việc:
+* Nghiên cứu, xây dựng, huấn luyện, tinh chỉnh và cải tiến các mô hình Machine Learning/Deep Learning phục vụ các bài toán thực tế trong doanh nghiệp.
+* Thực hiện các nhiệm vụ được phân công theo yêu cầu của Lãnh đạo Phòng và Lãnh đạo Công ty.
+* Nghiên cứu, xây dựng, huấn luyện, tinh chỉnh và cải tiến các mô hình Machine Learning/Deep Learning phục vụ các bài toán thực tế trong doanh nghiệp.
+* Thiết kế và xây dựng các luồng kiểm thử, đánh giá chất lượng mô hình trước và sau khi triển khai vào môi trường production.
+* Theo dõi, phân tích và đánh giá hiệu năng mô hình trong quá trình vận hành; phát hiện các vấn đề như suy giảm chất lượng mô hình, dữ liệu thay đổi hoặc kết quả dự đoán không ổn định.
+* Phối hợp xây dựng các công cụ, API hoặc hệ thống phục vụ triển khai, giám sát và khai thác mô hình Machine Learning.
+* Nghiên cứu và phát triển các giải pháp ứng dụng khoa học dữ liệu, Machine Learning, LLM hoặc AI Agent vào các bài toán thực tế trong doanh nghiệp.
+
+## Yêu cầu:
+* Tốt nghiệp Đại học các chuyên ngành Công nghệ thông tin, Khoa học máy tính, Khoa học dữ liệu hoặc các ngành liên quan.
+* Thành thạo Python, PySpark và SQL
+* Có kiến thức vững về Machine Learning, Deep Learning và kinh nghiệm triển khai các dự án có áp dụng thuật toán Machine Learning.
+* Có kiến thức về việc xây dựng hệ thống AI Agent hoặc LLM
+* Có kinh nghiệm đánh giá hiệu năng mô hình Machine Learning trong môi trường production, bao gồm theo dõi chất lượng mô hình, phát hiện suy giảm hiệu năng và đề xuất phương án cải thiện.
+* Có kinh nghiệm xây dựng API và làm việc với các nền tảng, công cụ xử lý dữ liệu như Spark, Airflow, Kafka.
+* Ưu tiên ứng viên đã tham gia phát triển các dự án ứng dụng Large Language Models, LLM-based applications hoặc Generative AI.
+## Quyền lợi:
+-Mức lương thỏa thuận theo năng lực, đánh giá năng lực hàng năm
+Chế độ thưởng phong phú và hấp dẫn (Theo quy định và chính sách công ty)
+Hỗ trợ ăn sáng miễn phí
+Hỗ trợ ăn trưa: 50.000đ/ngày
+Hỗ trợ gửi xe, xăng xe, điện thoại (tùy vị trí)
+Quà tặng các ngày lễ trong năm
+Bảo hiểm & chăm sóc sức khỏe toàn diện:BHXH, BHYT, BHTN theo pháp luật hiện hành
+Gói bảo hiểm sức khỏe cao cấp 24/7 mua cho nhân viên & người thân nhân viên
+Khám sức khỏe định kỳ hàng năm
+Môi trường làm việc hiện đại:Cung cấp máy tính & trang thiết bị làm việc hiện đại
+Văn phòng làm việc hiện đại, trang thiết bị làm việc Hi- tech
+Không gian ăn nhẹ miễn phí (nước uống, trà cafe, hoa quả, sữa chua)
+Phát triển nghề nghiệp:Cơ hội tiếp cận với những công nghệ mới, những dự án quy mô lớn
+Làm việc cùng đội ngũ hơn 2000 nhân sự tài năng, có chuyên môn giỏi, dày dặn kinh nghiệm, tư duy chia sẻ
+Được tài trợ kinh phí tham gia các chương trình đào tạo nâng cao năng lực
+Hoạt động ngoại khóa phong phú:Văn hóa công ty đặc sắc với nhiều hoạt động đoàn thể được quan tâm đầu tư: Team building, Nghỉ mát (trong nước và nước ngoài), 20/10, Year End Party, hoạt động thiện nguyện,...
+Các câu lạc bộ: CLB Cầu lông, CLB Bóng đá, CLB Yoga, CLB Điền kinh, CLB Bơi
 
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: # TUYỂN DỤNG AI/ML ENGINEER
+**Địa điểm:** Đà Nẵng, Việt Nam
+**Hình thức:** Toàn thời gian
+**Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
+## Mô tả công việc: Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ để tham gia vào đội ngũ kỹ thuật. Bạn sẽ tham gia xây dựng, huấn luyện và triển khai các mô hình Machine Learning, đồng thời biến các ý tưởng nghiên cứu thành những sản phẩm AI có khả năng hoạt động thực tế.
+## Trách nhiệm:
+* Thiết kế, phát triển và đánh giá các mô hình Machine Learning.
+* Thu thập, làm sạch và xử lý dữ liệu phục vụ huấn luyện mô hình.
+* Huấn luyện, tinh chỉnh và tối ưu các mô hình Machine Learning và Deep Learning.
+* Xây dựng và duy trì các pipeline Machine Learning.
+* Triển khai mô hình AI vào môi trường thực tế và theo dõi hiệu suất.
+* Phối hợp với Software Engineer và Data Scientist để tích hợp AI vào sản phẩm.
+* Nghiên cứu và thử nghiệm các phương pháp, thuật toán AI/ML mới.
+* Ghi chép và tài liệu hóa quá trình thử nghiệm, mô hình và giải pháp kỹ thuật.
+## Yêu cầu:
+* Tốt nghiệp hoặc đang theo học **Khoa học máy tính, Trí tuệ nhân tạo, Khoa học dữ liệu, Toán học** hoặc các ngành liên quan.
+* Có khả năng lập trình tốt bằng **Python**.
+* Nắm vững kiến thức về **Cấu trúc dữ liệu và Giải thuật**.
+* Hiểu các khái niệm Machine Learning như:
+  * Supervised Learning
+  * Unsupervised Learning
+  * Classification
+  * Regression
+  * Model Evaluation
+* Có kiến thức về ít nhất một framework Deep Learning như **PyTorch hoặc TensorFlow**.
+* Có kiến thức cơ bản về **SQL và xử lý dữ liệu**.
+* Biết sử dụng **Git** và các quy trình phát triển phần mềm cơ bản.
+* Có khả năng tư duy logic, phân tích và giải quyết vấn đề.
+## Điểm cộng
+* Có kinh nghiệm với **NLP, Computer Vision hoặc Generative AI**.
+* Có kinh nghiệm với AWS, Azure hoặc Google Cloud.
+* Biết Docker hoặc Kubernetes.
+* Có kinh nghiệm triển khai mô hình ML thông qua API.
+* Có dự án cá nhân, đồ án hoặc nghiên cứu liên quan đến AI/ML.
+## Quyền lợi
+* Mức lương cạnh tranh dựa trên năng lực và kinh nghiệm.
+* Được tham gia các dự án AI/ML thực tế.
+* Được hướng dẫn bởi các kỹ sư có kinh nghiệm.
+* Có cơ hội đào tạo và phát triển chuyên môn.
+* Môi trường làm việc hiện đại, hợp tác.
+* Có cơ hội tiếp cận các công nghệ AI mới.
+
+- Tin tuyển dụng thật ra viết:
+Yêu cầu:3 năm kinh nghiệm chuyên môn, Đại Học trở lên,Tiếng Anh TOEIC 650
+Chuyên môn: AI Engineer
+-Mô tả công việc:
+Chịu trách nhiệm chính trong việc thiết kế kiến trúc, nghiên cứu công nghệ AI tiên tiến (đặc biệt là GenAI, LLMs, RAG) và trực tiếp phát triển các giải pháp AI nòng cốt nhằm giải quyết các bài toán kinh doanh, vận hành của tổ chức. Đồng thời, đóng vai trò dẫn dắt chuyên môn (Technical Lead) cho các nhân viên trong team.
+
+Trách nhiệm công việc:
+Nghiên cứu & Phát triển (R&D): Nghiên cứu, đánh giá và ứng dụng các công nghệ AI/LLM mới nhất (GPT-4, Claude, Llama, RAG, AI Agents, Vector DB) vào sản phẩm thực tế.
+Thiết kế & Triển khai hệ thống:
+Xây dựng kiến trúc và trực tiếp lập trình các ứng dụng AI/GenAI (Chatbot thông minh, hệ thống truy xuất tri thức RAG, tự động hóa quy trình nghiệp vụ).
+Thực hiện Fine-tuning, Prompt Engineering và tối ưu hóa hiệu năng (độ chính xác, chi phí API, độ trễ/latency) cho mô hình.
+Tích hợp & Đóng gói:
+Phối hợp với đội ngũ Backend/DevOps để đóng gói mô hình thành các API/Microservices, tích hợp vào hệ thống chung của tổ chức.
+Dẫn dắt & Định hướng kỹ thuật:
+Hướng dẫn, Review code và hỗ trợ nâng cao năng lực chuyên môn cho nhóm Nhân viên AI.
+Tham gia thẩm định tính khả thi (Feasibility) và tư vấn kiến trúc kỹ thuật cho các dự án AI mới.
+Yêu cầu ứng viên
+Tốt nghiệp Đại học trở lên chuyên ngành AI, Khoa học máy tính, Công nghệ thông tin, Toán tin hoặc các ngành liên quan.
+Tối thiểu 3 - 5 năm kinh nghiệm làm việc trong lĩnh vực AI/Data Science, trong đó có ít nhất 1 - 2 năm kinh nghiệm thực tế triển khai các dự án GenAI/LLM/RAG.
+Có chứng chỉ tiếng Anh TOEIC từ 650
+Thành thạo ngôn ngữ lập trình Python, các thư viện Machine Learning/Deep Learning (PyTorch, TensorFlow, Scikit-learn), xử lý ngôn ngữ & âm thanh (NLP & speech)
+Nắm vững kiến thức và kinh nghiệm thực chiến với các Framework GenAI: LangChain, LlamaIndex, AutoGen,...
+Thành thạo làm việc với Vector Databases (Pinecone, Qdrant, Milvus, Chroma, Pgvector) và các kỹ thuật xử lý văn bản (Chunking, Embedding, Reranking).
+Có kinh nghiệm triển khai API (FastAPI, Flask) và công cụ đóng gói (Docker, Kubernetes).
+Khả năng giải quyết bài toán phức tạp, tư duy hệ thống và chủ động cao.
+Kỹ năng làm việc nhóm tốt, có khả năng mentor/lead kỹ thuật cho các thành viên khác.
+Kỹ năng cần có
+Python, Docker, Kubernetes, NLP, API Development, Machine Learning, Deep learning, Vector Databases, Speech Processing, GenAI Frameworks
+Kỹ năng nên có Mentor, technical lead
+Quyền lợi ứng viên
+- Được tham gia các bài toán AI gắn với Kinh doanh và vận hành thực tế với tổ chức.
+- Có cơ hội phát triển nghề nghiệp theo định hướng chuyên gia kỹ thuật/Technical Lead đối với nhân sự có năng lực.
+- Thu nhập và chế độ đãi ngộ cạnh tranh, phù hợp với năng lực của ứng viên.
+- Được tạo điều kiện đào tạo, nâng cao năng lực chuyên môn và cập nhật công nghệ mới trong lĩnh vực AI.
+địa điểm: Hà Nội: Phường Giảng Võ (quận Ba Đình cũ)
+Thời gian làm việc: Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+- Tôi sửa thành:
+           TUYỂN DỤNG AI/ML ENGINEER
+**Địa điểm:** Đà Nẵng, Việt Nam
+**Hình thức:** Toàn thời gian
+**Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
+## Mô tả công việc: Thực hiện đúng tiến độ và chất lượng của các công việc
+vận hành hệ thống server, nền tảng tự động hóa n8n
+Nghiên cứu, phát triển hệ thống AIoT giám sát thiết bị nhà máy
+Xây dựng dashboard và tích hợp AI vào hệ thống để tối ưu vận hành
+Đề xuất giải pháp cải tiến cho doanh nghiệp.
+Thực hiện các công việc khác theo phân công của Quản lý.
+## Yêu cầu:
+* Tốt nghiệp đại học trở lên
+* Chuyên ngành: Công nghệ thông tin, Khoa học máy tính, Kỹ thuật điều khiển - Tự động hóa, Trí tuệ nhân tạo hoặc liên quan
+* Nắm vững kiến thức về hệ thống server, mạng máy tính, cơ sở dữ liệu (SQL/NoSQL).
+* Có kiến thức về AI/Machine Learning, các nền tảng tự động hóa quy trình (n8n, Zapier...) và giao thức kết nối thiết bị IoT (MQTT, Modbus, OPC-UA...) để phục vụ nghiên cứu, phát triển hệ thống mới
+* Có kiến thức về xây dựng dashboard, trực quan hóa dữ liệu (Power BI, Grafana...).
+* Thành thạo lập trình Python (hoặc ngôn ngữ tương đương) phục vụ xử lý dữ liệu, xây dựng automation
+* Kinh nghiệm triển khai, vận hành server (Linux/Windows Server) và quản trị hệ thống n8n
+* Kinh nghiệm xây dựng hệ thống IoT, kết nối cảm biến/thiết bị (MQTT, Modbus, OPC-UA...)
+* Ứng dụng AI (AI API LM, automation tool) vào giải pháp thực tế; xây dựng dashboard, trực quan hóa dữ liệu (Power BI, Grafana...) - bậc 1 (trong khung năng lực)
+* Có khả năng đọc hiểu tài liệu chuyên ngành bằng tiếng Anh.
+* Có tư duy hệ thống, khả năng phân tích và giải quyết vấn đề kỹ thuật.
+* Có khả năng làm việc độc lập và phối hợp nhóm, chịu được áp lực công việc.
+## Quyền lợi:Thu nhập 15 – 25 triệu đồng/tháng, trao đổi trực tiếp theo năng lực và hiệu quả công việc.
+Thưởng tháng lương 13 và thưởng hiệu quả cuối năm theo chính sách Công ty.
+Được đóng đầy đủ BHXH, BHYT, BHTN theo quy định.
+Được trang bị đầy đủ công cụ, thiết bị phục vụ công việc.
+Được đào tạo, nâng cao nghiệp vụ thường xuyên.
+Môi trường làm việc chuyên nghiệp, năng động, có cơ hội phát triển và thăng tiến.
+Hưởng các chế độ phúc lợi khác theo quy định của Công ty.
+
 
 ## Một quyết định đạo đức
 
