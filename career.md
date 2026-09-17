@@ -81,9 +81,11 @@ Chúng tôi đang tìm kiếm **Data Scientist** có khả năng phân tích và
 * Môi trường làm việc hợp tác.
 * Được tiếp cận các công cụ Data và AI hiện đại.
 
-- Tin tuyển dụng thật ra viết: ## Chuyên môn: data Scientist
-## Mô tả công việc: khai phá dữ liệu, phân tích chuyên sâu, xây dựng và làm giàu kho dữ liệu đặc trưng, phát triển mô hình phục vụ kinh doanh (tiềm năng bán, upsale, cross sale, chống churn ...)
-Tham gia và báo cáo lãnh đạo dự án, lãnh đạo khối các dự án về công tác xây dựng mô hình phân tích dữ liệu được phân công
+- Tin tuyển dụng thật ra viết:
+      ## Chuyên môn: data Scientist
+## Mô tả công việc: 
+* khai phá dữ liệu, phân tích chuyên sâu, xây dựng và làm giàu kho dữ liệu đặc trưng, phát triển mô hình phục vụ kinh doanh (tiềm năng bán, upsale, cross sale, chống churn ...)
+* Tham gia và báo cáo lãnh đạo dự án, lãnh đạo khối các dự án về công tác xây dựng mô hình phân tích dữ liệu được phân công
 ## Yêu cầu:
 * Cử nhân chuyên ngành kinh tế, tài chính, ngân hàng, khoa học dữ liệu, khoa học máy tính, thống kê, Toán tin... hoặc các chuyên ngành liên quan
 * Ưu tiên có chứng chỉ hoặc có kinh nghiệm sử dụng thành thạo ngôn ngữ, công cụ xử lý dữ liệu lớn, và các chứng chỉ kĩ năng về khoa học dữ liệu: Data science, Data engieering, Data analysis, Python, Spark, SQL, Tableau, Power BI, Oracle, Data visualization
@@ -136,6 +138,7 @@ Phát triển nghề nghiệp:Cơ hội tiếp cận với những công nghệ 
 **Chỗ thứ hai**
 
 - AI viết: # TUYỂN DỤNG AI/ML ENGINEER
+  
 **Địa điểm:** Đà Nẵng, Việt Nam
 **Hình thức:** Toàn thời gian
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
