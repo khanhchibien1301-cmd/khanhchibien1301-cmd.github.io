@@ -223,12 +223,12 @@ Thời gian làm việc: Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
 **Địa điểm:** Đà Nẵng, Việt Nam
 **Hình thức:** Toàn thời gian
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
-## Mô tả công việc: Thực hiện đúng tiến độ và chất lượng của các công việc
-vận hành hệ thống server, nền tảng tự động hóa n8n
-Nghiên cứu, phát triển hệ thống AIoT giám sát thiết bị nhà máy
-Xây dựng dashboard và tích hợp AI vào hệ thống để tối ưu vận hành
-Đề xuất giải pháp cải tiến cho doanh nghiệp.
-Thực hiện các công việc khác theo phân công của Quản lý.
+## Mô tả công việc: 
+* Thực hiện đúng tiến độ và chất lượng của các công việc,vận hành hệ thống server, nền tảng tự động hóa
+* Nghiên cứu, phát triển hệ thống AIoT giám sát thiết bị nhà máy
+* Xây dựng dashboard và tích hợp AI vào hệ thống để tối ưu vận hành
+* Đề xuất giải pháp cải tiến cho doanh nghiệp.
+* Thực hiện các công việc khác theo phân công của Quản lý.
 ## Yêu cầu:
 * Tốt nghiệp đại học trở lên
 * Chuyên ngành: Công nghệ thông tin, Khoa học máy tính, Kỹ thuật điều khiển - Tự động hóa, Trí tuệ nhân tạo hoặc liên quan
@@ -242,19 +242,19 @@ Thực hiện các công việc khác theo phân công của Quản lý.
 * Có khả năng đọc hiểu tài liệu chuyên ngành bằng tiếng Anh.
 * Có tư duy hệ thống, khả năng phân tích và giải quyết vấn đề kỹ thuật.
 * Có khả năng làm việc độc lập và phối hợp nhóm, chịu được áp lực công việc.
-## Quyền lợi:Thu nhập 15 – 25 triệu đồng/tháng, trao đổi trực tiếp theo năng lực và hiệu quả công việc.
-Thưởng tháng lương 13 và thưởng hiệu quả cuối năm theo chính sách Công ty.
-Được đóng đầy đủ BHXH, BHYT, BHTN theo quy định.
-Được trang bị đầy đủ công cụ, thiết bị phục vụ công việc.
-Được đào tạo, nâng cao nghiệp vụ thường xuyên.
-Môi trường làm việc chuyên nghiệp, năng động, có cơ hội phát triển và thăng tiến.
-Hưởng các chế độ phúc lợi khác theo quy định của Công ty.
+## Quyền lợi:
+* Thu nhập 15 – 25 triệu đồng/tháng, trao đổi trực tiếp theo năng lực và hiệu quả công việc.
+* Thưởng tháng lương 13 và thưởng hiệu quả cuối năm theo chính sách Công ty.
+* Được đóng đầy đủ BHXH, BHYT, BHTN theo quy định.
+* Được trang bị đầy đủ công cụ, thiết bị phục vụ công việc.
+* Được đào tạo, nâng cao nghiệp vụ thường xuyên.
+* Môi trường làm việc chuyên nghiệp, năng động, có cơ hội phát triển và thăng tiến.
+* Hưởng các chế độ phúc lợi khác theo quy định của Công ty.
 
 
 ## Một quyết định đạo đức
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
-
 - Phía luật sư công ty lập luận rằng: …
 - Phía người dùng lập luận rằng: …
 - **Quyết định của tôi**, và vì sao: …
