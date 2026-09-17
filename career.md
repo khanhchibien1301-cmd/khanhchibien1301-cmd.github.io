@@ -95,16 +95,14 @@ Tham gia và báo cáo lãnh đạo dự án, lãnh đạo khối các dự án 
 * Ưu tiên có hiểu biết hoặc đã sử dụng các thuật toán khai phá dữ liệu trong thực tế.
 * Có kinh nghiệm sử dụng các công cụ trực quan hóa dữ liệu, matplotlib, tableau,...
 * Có tư duy logic tốt, có khả năng thiết kế, giải quyết các bài toán, vấn đề liên quan đến dữ liệu và sử dụng dữ liệu.
-## Quyền lợi :1. Chế độ Thưởng hấp dẫn:
-Thưởng dịp lễ tết
-Thưởng thành tích gắn với hiệu suất công việc/kết quả kinh doanh
-2. Chế độ phúc lợi vượt trội:
-Đãi ngộ gắn kết (Tặng quà sinh nhật, quà tết nguyên đán, đãi ngộ thâm niên.....)
+## Quyền lợi :
+1. Chế độ Thưởng hấp dẫn:Thưởng dịp lễ tết,Thưởng thành tích gắn với hiệu suất công việc/kết quả kinh doanh
+2. Chế độ phúc lợi vượt trội: Đãi ngộ gắn kết (Tặng quà sinh nhật, quà tết nguyên đán, đãi ngộ thâm niên.....)
 Bảo hiểm chăm sóc sức khỏe cho CBNV/người thân với các đặc quyền độc đáo
 Du lịch/nghỉ dưỡng hằng năm trong nước & nước ngoài
 
-- Tôi sửa thành: # TUYỂN DỤNG DATA SCIENTIST
-
+- Tôi sửa thành:
+  # TUYỂN DỤNG DATA SCIENTIST
 **Địa điểm:** Đà Nẵng, Việt Nam 
 ** thời gian làm việc: Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
@@ -128,22 +126,12 @@ Du lịch/nghỉ dưỡng hằng năm trong nước & nước ngoài
 * Ưu tiên ứng viên đã tham gia phát triển các dự án ứng dụng Large Language Models, LLM-based applications hoặc Generative AI.
 ## Quyền lợi:
 -Mức lương thỏa thuận theo năng lực, đánh giá năng lực hàng năm
-Chế độ thưởng phong phú và hấp dẫn (Theo quy định và chính sách công ty)
-Hỗ trợ ăn sáng miễn phí
-Hỗ trợ ăn trưa: 50.000đ/ngày
-Hỗ trợ gửi xe, xăng xe, điện thoại (tùy vị trí)
-Quà tặng các ngày lễ trong năm
-Bảo hiểm & chăm sóc sức khỏe toàn diện:BHXH, BHYT, BHTN theo pháp luật hiện hành
+Chế độ thưởng phong phú và hấp dẫn (Theo quy định và chính sách công ty),Hỗ trợ ăn sáng miễn phí,Hỗ trợ ăn trưa: 50.000đ/ngày,Hỗ trợ gửi xe, xăng xe, điện thoại (tùy vị trí)
+Quà tặng các ngày lễ trong năm,Bảo hiểm & chăm sóc sức khỏe toàn diện:BHXH, BHYT, BHTN theo pháp luật hiện hành
 Gói bảo hiểm sức khỏe cao cấp 24/7 mua cho nhân viên & người thân nhân viên
 Khám sức khỏe định kỳ hàng năm
-Môi trường làm việc hiện đại:Cung cấp máy tính & trang thiết bị làm việc hiện đại
-Văn phòng làm việc hiện đại, trang thiết bị làm việc Hi- tech
-Không gian ăn nhẹ miễn phí (nước uống, trà cafe, hoa quả, sữa chua)
-Phát triển nghề nghiệp:Cơ hội tiếp cận với những công nghệ mới, những dự án quy mô lớn
-Làm việc cùng đội ngũ hơn 2000 nhân sự tài năng, có chuyên môn giỏi, dày dặn kinh nghiệm, tư duy chia sẻ
-Được tài trợ kinh phí tham gia các chương trình đào tạo nâng cao năng lực
-Hoạt động ngoại khóa phong phú:Văn hóa công ty đặc sắc với nhiều hoạt động đoàn thể được quan tâm đầu tư: Team building, Nghỉ mát (trong nước và nước ngoài), 20/10, Year End Party, hoạt động thiện nguyện,...
-Các câu lạc bộ: CLB Cầu lông, CLB Bóng đá, CLB Yoga, CLB Điền kinh, CLB Bơi
+Môi trường làm việc hiện đại: Cung cấp máy tính & trang thiết bị làm việc hiện đại,Văn phòng làm việc hiện đại, trang thiết bị làm việc Hi- tech,Không gian ăn nhẹ miễn phí (nước uống, trà cafe, hoa quả, sữa chua)
+Phát triển nghề nghiệp:Cơ hội tiếp cận với những công nghệ mới, những dự án quy mô lớn,Làm việc cùng đội ngũ hơn 2000 nhân sự tài năng, có chuyên môn giỏi, dày dặn kinh nghiệm, tư duy chia sẻ
 
 **Chỗ thứ hai**
 
@@ -151,7 +139,8 @@ Các câu lạc bộ: CLB Cầu lông, CLB Bóng đá, CLB Yoga, CLB Điền kin
 **Địa điểm:** Đà Nẵng, Việt Nam
 **Hình thức:** Toàn thời gian
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
-## Mô tả công việc: Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ để tham gia vào đội ngũ kỹ thuật. Bạn sẽ tham gia xây dựng, huấn luyện và triển khai các mô hình Machine Learning, đồng thời biến các ý tưởng nghiên cứu thành những sản phẩm AI có khả năng hoạt động thực tế.
+## Mô tả công việc: 
+Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ để tham gia vào đội ngũ kỹ thuật. Bạn sẽ tham gia xây dựng, huấn luyện và triển khai các mô hình Machine Learning, đồng thời biến các ý tưởng nghiên cứu thành những sản phẩm AI có khả năng hoạt động thực tế.
 ## Trách nhiệm:
 * Thiết kế, phát triển và đánh giá các mô hình Machine Learning.
 * Thu thập, làm sạch và xử lý dữ liệu phục vụ huấn luyện mô hình.
