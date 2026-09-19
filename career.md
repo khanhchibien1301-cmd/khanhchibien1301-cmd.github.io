@@ -168,12 +168,14 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 * Có kiến thức cơ bản về **SQL và xử lý dữ liệu**.
 * Biết sử dụng **Git** và các quy trình phát triển phần mềm cơ bản.
 * Có khả năng tư duy logic, phân tích và giải quyết vấn đề.
+  
 ## Điểm cộng
 * Có kinh nghiệm với **NLP, Computer Vision hoặc Generative AI**.
 * Có kinh nghiệm với AWS, Azure hoặc Google Cloud.
 * Biết Docker hoặc Kubernetes.
 * Có kinh nghiệm triển khai mô hình ML thông qua API.
 * Có dự án cá nhân, đồ án hoặc nghiên cứu liên quan đến AI/ML.
+
 ## Quyền lợi
 * Mức lương cạnh tranh dựa trên năng lực và kinh nghiệm.
 * Được tham gia các dự án AI/ML thực tế.
@@ -183,35 +185,40 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 * Có cơ hội tiếp cận các công nghệ AI mới.
 
 - Tin tuyển dụng thật ra viết:
+     ** Tuyển dụng  AI Engineer
 Yêu cầu:3 năm kinh nghiệm chuyên môn, Đại Học trở lên,Tiếng Anh TOEIC 650
-Chuyên môn: AI Engineer
--Mô tả công việc:
-Chịu trách nhiệm chính trong việc thiết kế kiến trúc, nghiên cứu công nghệ AI tiên tiến (đặc biệt là GenAI, LLMs, RAG) và trực tiếp phát triển các giải pháp AI nòng cốt nhằm giải quyết các bài toán kinh doanh, vận hành của tổ chức. Đồng thời, đóng vai trò dẫn dắt chuyên môn (Technical Lead) cho các nhân viên trong team.
 
-Trách nhiệm công việc:
-Nghiên cứu & Phát triển (R&D): Nghiên cứu, đánh giá và ứng dụng các công nghệ AI/LLM mới nhất (GPT-4, Claude, Llama, RAG, AI Agents, Vector DB) vào sản phẩm thực tế.
-Thiết kế & Triển khai hệ thống:
-Xây dựng kiến trúc và trực tiếp lập trình các ứng dụng AI/GenAI (Chatbot thông minh, hệ thống truy xuất tri thức RAG, tự động hóa quy trình nghiệp vụ).
-Thực hiện Fine-tuning, Prompt Engineering và tối ưu hóa hiệu năng (độ chính xác, chi phí API, độ trễ/latency) cho mô hình.
-Tích hợp & Đóng gói:
-Phối hợp với đội ngũ Backend/DevOps để đóng gói mô hình thành các API/Microservices, tích hợp vào hệ thống chung của tổ chức.
-Dẫn dắt & Định hướng kỹ thuật:
-Hướng dẫn, Review code và hỗ trợ nâng cao năng lực chuyên môn cho nhóm Nhân viên AI.
-Tham gia thẩm định tính khả thi (Feasibility) và tư vấn kiến trúc kỹ thuật cho các dự án AI mới.
-Yêu cầu ứng viên
-Tốt nghiệp Đại học trở lên chuyên ngành AI, Khoa học máy tính, Công nghệ thông tin, Toán tin hoặc các ngành liên quan.
-Tối thiểu 3 - 5 năm kinh nghiệm làm việc trong lĩnh vực AI/Data Science, trong đó có ít nhất 1 - 2 năm kinh nghiệm thực tế triển khai các dự án GenAI/LLM/RAG.
-Có chứng chỉ tiếng Anh TOEIC từ 650
-Thành thạo ngôn ngữ lập trình Python, các thư viện Machine Learning/Deep Learning (PyTorch, TensorFlow, Scikit-learn), xử lý ngôn ngữ & âm thanh (NLP & speech)
-Nắm vững kiến thức và kinh nghiệm thực chiến với các Framework GenAI: LangChain, LlamaIndex, AutoGen,...
-Thành thạo làm việc với Vector Databases (Pinecone, Qdrant, Milvus, Chroma, Pgvector) và các kỹ thuật xử lý văn bản (Chunking, Embedding, Reranking).
-Có kinh nghiệm triển khai API (FastAPI, Flask) và công cụ đóng gói (Docker, Kubernetes).
-Khả năng giải quyết bài toán phức tạp, tư duy hệ thống và chủ động cao.
-Kỹ năng làm việc nhóm tốt, có khả năng mentor/lead kỹ thuật cho các thành viên khác.
-Kỹ năng cần có
-Python, Docker, Kubernetes, NLP, API Development, Machine Learning, Deep learning, Vector Databases, Speech Processing, GenAI Frameworks
-Kỹ năng nên có Mentor, technical lead
-Quyền lợi ứng viên
+  **Mô tả công việc**
+  
+-Chịu trách nhiệm chính trong việc thiết kế kiến trúc, nghiên cứu công nghệ AI tiên tiến (đặc biệt là GenAI, LLMs, RAG) và trực tiếp phát triển các giải pháp AI nòng cốt nhằm giải quyết các bài toán kinh doanh, vận hành của tổ chức. Đồng thời, đóng vai trò dẫn dắt chuyên môn (Technical Lead) cho các nhân viên trong team.
+
+ **Trách nhiệm công việc:**
+ 
+-Nghiên cứu & Phát triển (R&D): Nghiên cứu, đánh giá và ứng dụng các công nghệ AI/LLM mới nhất (GPT-4, Claude, Llama, RAG, AI Agents, Vector DB) vào sản phẩm thực tế.
+-Thiết kế & Triển khai hệ thống:
+-Xây dựng kiến trúc và trực tiếp lập trình các ứng dụng AI/GenAI (Chatbot thông minh, hệ thống truy xuất tri thức RAG, tự động hóa quy trình nghiệp vụ).
+-Thực hiện Fine-tuning, Prompt Engineering và tối ưu hóa hiệu năng (độ chính xác, chi phí API, độ trễ/latency) cho mô hình.
+-Tích hợp & Đóng gói:
+-Phối hợp với đội ngũ Backend/DevOps để đóng gói mô hình thành các API/Microservices, tích hợp vào hệ thống chung của tổ chức.
+-Dẫn dắt & Định hướng kỹ thuật:
+-Hướng dẫn, Review code và hỗ trợ nâng cao năng lực chuyên môn cho nhóm Nhân viên AI.
+-Tham gia thẩm định tính khả thi (Feasibility) và tư vấn kiến trúc kỹ thuật cho các dự án AI mới.
+
+ **yêu cầu ứng viên:**
+ 
+-Tốt nghiệp Đại học trở lên chuyên ngành AI, Khoa học máy tính, Công nghệ thông tin, Toán tin hoặc các ngành liên quan.
+-Tối thiểu 3 - 5 năm kinh nghiệm làm việc trong lĩnh vực AI/Data Science, trong đó có ít nhất 1 - 2 năm kinh nghiệm thực tế triển khai các dự án GenAI/LLM/RAG.
+-Có chứng chỉ tiếng Anh TOEIC từ 650
+-Thành thạo ngôn ngữ lập trình Python, các thư viện Machine Learning/Deep Learning (PyTorch, TensorFlow, Scikit-learn), xử lý ngôn ngữ & âm thanh (NLP & speech)
+-Nắm vững kiến thức và kinh nghiệm thực chiến với các Framework GenAI: LangChain, LlamaIndex, AutoGen,...
+-Thành thạo làm việc với Vector Databases (Pinecone, Qdrant, Milvus, Chroma, Pgvector) và các kỹ thuật xử lý văn bản (Chunking, Embedding, Reranking).
+-Có kinh nghiệm triển khai API (FastAPI, Flask) và công cụ đóng gói (Docker, Kubernetes).
+-Khả năng giải quyết bài toán phức tạp, tư duy hệ thống và chủ động cao.
+-Kỹ năng làm việc nhóm tốt, có khả năng mentor/lead kỹ thuật cho các thành viên khác.
+-Kỹ năng cần có
+-Python, Docker, Kubernetes, NLP, API Development, Machine Learning, Deep learning, Vector Databases, Speech Processing, GenAI Frameworks
+
+    **Quyền lợi ứng viên**
 - Được tham gia các bài toán AI gắn với Kinh doanh và vận hành thực tế với tổ chức.
 - Có cơ hội phát triển nghề nghiệp theo định hướng chuyên gia kỹ thuật/Technical Lead đối với nhân sự có năng lực.
 - Thu nhập và chế độ đãi ngộ cạnh tranh, phù hợp với năng lực của ứng viên.
