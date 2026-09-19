@@ -185,8 +185,11 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 * Có cơ hội tiếp cận các công nghệ AI mới.
 
 - Tin tuyển dụng thật ra viết:
-     ** Tuyển dụng  AI Engineer
-Yêu cầu:3 năm kinh nghiệm chuyên môn, Đại Học trở lên,Tiếng Anh TOEIC 650
+- 
+ # TUYỂN DỤNG DATA SCIENTIST
+**Địa điểm:** Đà Nẵng, Việt Nam 
+** thời gian làm việc: Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)
+**Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
 
   **Mô tả công việc**
   
@@ -218,7 +221,7 @@ Yêu cầu:3 năm kinh nghiệm chuyên môn, Đại Học trở lên,Tiếng An
 -Kỹ năng cần có
 -Python, Docker, Kubernetes, NLP, API Development, Machine Learning, Deep learning, Vector Databases, Speech Processing, GenAI Frameworks
 
-    **Quyền lợi ứng viên**
+ ** Quyền lợi ứng viên **
 - Được tham gia các bài toán AI gắn với Kinh doanh và vận hành thực tế với tổ chức.
 - Có cơ hội phát triển nghề nghiệp theo định hướng chuyên gia kỹ thuật/Technical Lead đối với nhân sự có năng lực.
 - Thu nhập và chế độ đãi ngộ cạnh tranh, phù hợp với năng lực của ứng viên.
