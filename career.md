@@ -82,7 +82,10 @@ Chúng tôi đang tìm kiếm **Data Scientist** có khả năng phân tích và
 * Được tiếp cận các công cụ Data và AI hiện đại.
 
 - Tin tuyển dụng thật ra viết:
-      ## Chuyên môn: data Scientist
+  ** TUYỂN DỤNG DATA SCIENTIST **
+  **Địa điểm**: tphcm, VIETNAM
+   **Thời gian: từ thứ 2- thứ 6 ( 8:00-22:00 )  
+
 ## Mô tả công việc: 
 * khai phá dữ liệu, phân tích chuyên sâu, xây dựng và làm giàu kho dữ liệu đặc trưng, phát triển mô hình phục vụ kinh doanh (tiềm năng bán, upsale, cross sale, chống churn ...)
 * Tham gia và báo cáo lãnh đạo dự án, lãnh đạo khối các dự án về công tác xây dựng mô hình phân tích dữ liệu được phân công
@@ -104,7 +107,9 @@ Bảo hiểm chăm sóc sức khỏe cho CBNV/người thân với các đặc q
 Du lịch/nghỉ dưỡng hằng năm trong nước & nước ngoài
 
 - Tôi sửa thành:
-  # TUYỂN DỤNG DATA SCIENTIST
+  
+  ** TUYỂN DỤNG DATA SCIENTIST **
+  
 **Địa điểm:** Đà Nẵng, Việt Nam 
 ** thời gian làm việc: Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
@@ -185,7 +190,7 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 * Có cơ hội tiếp cận các công nghệ AI mới.
 
 - Tin tuyển dụng thật ra viết:
-- 
+ 
  # TUYỂN DỤNG DATA SCIENTIST
 **Địa điểm:** Đà Nẵng, Việt Nam 
 ** thời gian làm việc: Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)
@@ -228,8 +233,10 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 - Được tạo điều kiện đào tạo, nâng cao năng lực chuyên môn và cập nhật công nghệ mới trong lĩnh vực AI.
 địa điểm: Hà Nội: Phường Giảng Võ (quận Ba Đình cũ)
 Thời gian làm việc: Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+
 - Tôi sửa thành:
-           TUYỂN DỤNG AI/ML ENGINEER
+
+   TUYỂN DỤNG AI/ML ENGINEER
 **Địa điểm:** Đà Nẵng, Việt Nam
 **Hình thức:** Toàn thời gian
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
