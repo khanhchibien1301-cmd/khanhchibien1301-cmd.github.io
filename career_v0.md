@@ -4,7 +4,7 @@ title: Chân dung nghề của tôi
 
 # Chân dung nghề của tôi
 
-## Hướng tôi nhắm tới : kỹ sư AI và phần mềm
+## Hướng tôi nhắm tới : kỹ sư AI/ML và kỹ sư phần mềm 
 
 Vì sao: Vì sao: trước hết chúng ta đang dần bước vào kỷ nguyên AI AGENT, một nơi mà các công cụ tiên tiến đang dần dần bước vào cuộc sống của chúng ta, hầu hết các công ty đang sử dụng AI vào công việc nếu chúng ta biết dử dụng chúng thì sẽ là một lợi thế cực lớn để phát triển, lý do thứ 2 là tôi đang rất hứng thú về các phần mềm, hệ thống của chúng vận hành như thế nào đặc biệt là về mảng game mặc dù không phải môt tay chơi chuyên nghiệp nhưng tôi lại có khát khao muốn biết làm cách nào để tạo ra được những cử chỉ, cảm xúc hay những hoạt cảnh xung quanh, chúng được vận hành bằng cách nào?. và hơn hết tôi đang nhắm đến việc kết hợp cả 2 ngành này lại với nhau thì sẽ tạo được một sản phẩm có thể cạnh tranh được với những ông lớn trong mảng công nghệ hay không?
 
@@ -20,7 +20,6 @@ Vì sao: Vì sao: trước hết chúng ta đang dần bước vào kỷ nguyên
 
 
 ## Ba tin tuyển dụng
-
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
@@ -145,13 +144,15 @@ Phát triển nghề nghiệp:Cơ hội tiếp cận với những công nghệ 
 **Chỗ thứ hai**
 
 - AI viết:
-   ## TUYỂN DỤNG AI/ML ENGINEER
+  
+   ## TUYỂN DỤNG AI/ML ENGINEER ##
   
 **Địa điểm:** Đà Nẵng, Việt Nam
 **Hình thức:** Toàn thời gian
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
 ## Mô tả công việc: 
 Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ để tham gia vào đội ngũ kỹ thuật. Bạn sẽ tham gia xây dựng, huấn luyện và triển khai các mô hình Machine Learning, đồng thời biến các ý tưởng nghiên cứu thành những sản phẩm AI có khả năng hoạt động thực tế.
+
 ## Trách nhiệm:
 * Thiết kế, phát triển và đánh giá các mô hình Machine Learning.
 * Thu thập, làm sạch và xử lý dữ liệu phục vụ huấn luyện mô hình.
@@ -161,6 +162,7 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 * Phối hợp với Software Engineer và Data Scientist để tích hợp AI vào sản phẩm.
 * Nghiên cứu và thử nghiệm các phương pháp, thuật toán AI/ML mới.
 * Ghi chép và tài liệu hóa quá trình thử nghiệm, mô hình và giải pháp kỹ thuật.
+
 ## Yêu cầu:
 * Tốt nghiệp hoặc đang theo học **Khoa học máy tính, Trí tuệ nhân tạo, Khoa học dữ liệu, Toán học** hoặc các ngành liên quan.
 * Có khả năng lập trình tốt bằng **Python**.
@@ -193,7 +195,7 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 
 - Tin tuyển dụng thật ra viết:
  
- # TUYỂN DỤNG DATA SCIENTIST
+ # TUYỂN DỤNG DATA SCIENTIST #
 **Địa điểm:** Đà Nẵng, Việt Nam 
 ** thời gian làm việc: Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
@@ -238,7 +240,7 @@ Thời gian làm việc: Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
 
 - Tôi sửa thành:
 
-   TUYỂN DỤNG AI/ML ENGINEER
+   ** TUYỂN DỤNG AI/ML ENGINEER **
 **Địa điểm:** Đà Nẵng, Việt Nam
 **Hình thức:** Toàn thời gian
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
