@@ -233,7 +233,7 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 -Hướng dẫn, Review code và hỗ trợ nâng cao năng lực chuyên môn cho nhóm Nhân viên AI.
 -Tham gia thẩm định tính khả thi (Feasibility) và tư vấn kiến trúc kỹ thuật cho các dự án AI mới.
 
- ** yêu cầu ứng viên: **
+**Yêu cầu:**
  
 -Tốt nghiệp Đại học trở lên chuyên ngành AI, Khoa học máy tính, Công nghệ thông tin, Toán tin hoặc các ngành liên quan.
 -Tối thiểu 3 - 5 năm kinh nghiệm làm việc trong lĩnh vực AI/Data Science, trong đó có ít nhất 1 - 2 năm kinh nghiệm thực tế triển khai các dự án GenAI/LLM/RAG.
