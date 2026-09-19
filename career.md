@@ -251,19 +251,21 @@ Thời gian làm việc: Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
 * Môi trường làm việc chuyên nghiệp, năng động, có cơ hội phát triển và thăng tiến.
 * Hưởng các chế độ phúc lợi khác theo quy định của Công ty.
 
-
 ## Một quyết định đạo đức
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: Việc thu thập thông tin vị trí người dùng để bổ sung cho tính năng mới hoạt động tốt nhất mà không xảy ra bất cứ sai sót nào. bởi vì ngày mai là hạn cuối của deadline nên không thể ghi rõ vào chính sách quyền riêng tư vì đây là bản cập nhật trước đó. Công ty tạm thời thu thập dữ liệu dưới dạng ẩn và sẽ cập nhật lại vào bản cải tiến tiếp theo. mục đích là để đảm bảo tiến độ như đã dự kiến.
+- Phía người dùng lập luận rằng: Đây là hành vi vi phạm quyền riêng tư của người dùng. Người dùng có quyền được biết những dữ liệu cá nhân nào đang bị khai thác. Việc thông tin vị trí đang bị công ty tự ý âm thầm theo dõi mà chưa có sự cho phép của người dùng, đây hoàn toàn là hành động vi phạm phạm phá luật 
+- **Quyết định của tôi**
+  là lùi lại ngày ra mắt hoặc vô hiệu hóa tính năng này cho đến khi chính sách quyền riêng tư được cập nhật và có sự chấp thuận từ người dùng.
+  ** vì sao? **
+  bởi vì: việc trễ ngày bàn giao dự án gây ảnh hưởng đến hoạt động và doanh thu của công ty nhưng rất ngắn nhưng nếu như vi phạm quyền riêng tư sẽ gây thiệt hại rất lớn về mặt tài chính lẫn niềm tin của khách hàng - đây là thứ một khi đã mất thì rất khó để có thể lấy lại được trong kinh doanh chữ tín luôn được đặt lên hàng đầu và đồng thời sẽ đẩy công ty vào tranh chấp kiện tụng rủi ro thua kiện là rất cao
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Hoàn thành 3 môn học phần với điểm xuất sắc ( nhập môn khoa học máy tính, tiếng anh 1, và tư duy thiết kế dự án )
+2. Tìm hiểu và rõ về hướng đi khi chọn kỹ sư AI kết hợp với phần mềm
+3. làm quen với các ngôn ngữ lập trình: python, C/C++,...
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -271,9 +273,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | nói rõ câu hỏi và mục địch ( chia rõ các vấn đề ) |
+| **Hoài** | không nên tin 100% vào kết quả đầu tiên, mà phải đọc kỹ chắt lọc thông tin và đối chứng từ các trang thông tin uy tín |
+| **Học** | dựa vào câu trả lời của AI cần phân tích và ghi chép lại theo góc nhìn của bản thân |
+| **Hành** | sau khi đủ 3 bước trên, ta cần tự viết lại như cách mà mình hiểu và áp dụng vào mục đích |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: gemini, chat GPT 
