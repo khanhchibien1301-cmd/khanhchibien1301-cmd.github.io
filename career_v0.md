@@ -84,13 +84,17 @@ Chúng tôi đang tìm kiếm **Data Scientist** có khả năng phân tích và
 
 - Tin tuyển dụng thật ra viết:
   ** TUYỂN DỤNG DATA SCIENTIST **
-  **Địa điểm**: tphcm, VIETNAM
+
+   **Địa điểm**: tphcm, VIETNAM
    **Thời gian: từ thứ 2- thứ 6 ( 8:00-22:00 )  
 
 ## Mô tả công việc: 
+
 * khai phá dữ liệu, phân tích chuyên sâu, xây dựng và làm giàu kho dữ liệu đặc trưng, phát triển mô hình phục vụ kinh doanh (tiềm năng bán, upsale, cross sale, chống churn ...)
 * Tham gia và báo cáo lãnh đạo dự án, lãnh đạo khối các dự án về công tác xây dựng mô hình phân tích dữ liệu được phân công
+
 ## Yêu cầu:
+
 * Cử nhân chuyên ngành kinh tế, tài chính, ngân hàng, khoa học dữ liệu, khoa học máy tính, thống kê, Toán tin... hoặc các chuyên ngành liên quan
 * Ưu tiên có chứng chỉ hoặc có kinh nghiệm sử dụng thành thạo ngôn ngữ, công cụ xử lý dữ liệu lớn, và các chứng chỉ kĩ năng về khoa học dữ liệu: Data science, Data engieering, Data analysis, Python, Spark, SQL, Tableau, Power BI, Oracle, Data visualization
 * Tối thiểu có kinh nghiệm 02 năm phân tích dữ liệu, khoa học máy tính hoặc các vị trí tương đương làm việc với dữ liệu lớn, có kinh nghiệm xây dựng các mô hình dự đoán, học máy
@@ -101,7 +105,9 @@ Chúng tôi đang tìm kiếm **Data Scientist** có khả năng phân tích và
 * Ưu tiên có hiểu biết hoặc đã sử dụng các thuật toán khai phá dữ liệu trong thực tế.
 * Có kinh nghiệm sử dụng các công cụ trực quan hóa dữ liệu, matplotlib, tableau,...
 * Có tư duy logic tốt, có khả năng thiết kế, giải quyết các bài toán, vấn đề liên quan đến dữ liệu và sử dụng dữ liệu.
+
 ## Quyền lợi :
+
 1. Chế độ Thưởng hấp dẫn:Thưởng dịp lễ tết,Thưởng thành tích gắn với hiệu suất công việc/kết quả kinh doanh
 2. Chế độ phúc lợi vượt trội: Đãi ngộ gắn kết (Tặng quà sinh nhật, quà tết nguyên đán, đãi ngộ thâm niên.....)
 Bảo hiểm chăm sóc sức khỏe cho CBNV/người thân với các đặc quyền độc đáo
@@ -116,6 +122,7 @@ Du lịch/nghỉ dưỡng hằng năm trong nước & nước ngoài
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
 
 ## Mô tả công việc:
+
 * Nghiên cứu, xây dựng, huấn luyện, tinh chỉnh và cải tiến các mô hình Machine Learning/Deep Learning phục vụ các bài toán thực tế trong doanh nghiệp.
 * Thực hiện các nhiệm vụ được phân công theo yêu cầu của Lãnh đạo Phòng và Lãnh đạo Công ty.
 * Nghiên cứu, xây dựng, huấn luyện, tinh chỉnh và cải tiến các mô hình Machine Learning/Deep Learning phục vụ các bài toán thực tế trong doanh nghiệp.
@@ -125,6 +132,7 @@ Du lịch/nghỉ dưỡng hằng năm trong nước & nước ngoài
 * Nghiên cứu và phát triển các giải pháp ứng dụng khoa học dữ liệu, Machine Learning, LLM hoặc AI Agent vào các bài toán thực tế trong doanh nghiệp.
 
 ## Yêu cầu:
+
 * Tốt nghiệp Đại học các chuyên ngành Công nghệ thông tin, Khoa học máy tính, Khoa học dữ liệu hoặc các ngành liên quan.
 * Thành thạo Python, PySpark và SQL
 * Có kiến thức vững về Machine Learning, Deep Learning và kinh nghiệm triển khai các dự án có áp dụng thuật toán Machine Learning.
@@ -132,7 +140,9 @@ Du lịch/nghỉ dưỡng hằng năm trong nước & nước ngoài
 * Có kinh nghiệm đánh giá hiệu năng mô hình Machine Learning trong môi trường production, bao gồm theo dõi chất lượng mô hình, phát hiện suy giảm hiệu năng và đề xuất phương án cải thiện.
 * Có kinh nghiệm xây dựng API và làm việc với các nền tảng, công cụ xử lý dữ liệu như Spark, Airflow, Kafka.
 * Ưu tiên ứng viên đã tham gia phát triển các dự án ứng dụng Large Language Models, LLM-based applications hoặc Generative AI.
+
 ## Quyền lợi:
+
 -Mức lương thỏa thuận theo năng lực, đánh giá năng lực hàng năm
 Chế độ thưởng phong phú và hấp dẫn (Theo quy định và chính sách công ty),Hỗ trợ ăn sáng miễn phí,Hỗ trợ ăn trưa: 50.000đ/ngày,Hỗ trợ gửi xe, xăng xe, điện thoại (tùy vị trí)
 Quà tặng các ngày lễ trong năm,Bảo hiểm & chăm sóc sức khỏe toàn diện:BHXH, BHYT, BHTN theo pháp luật hiện hành
@@ -150,10 +160,13 @@ Phát triển nghề nghiệp:Cơ hội tiếp cận với những công nghệ 
 **Địa điểm:** Đà Nẵng, Việt Nam
 **Hình thức:** Toàn thời gian
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
+
 ## Mô tả công việc: 
+
 Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ để tham gia vào đội ngũ kỹ thuật. Bạn sẽ tham gia xây dựng, huấn luyện và triển khai các mô hình Machine Learning, đồng thời biến các ý tưởng nghiên cứu thành những sản phẩm AI có khả năng hoạt động thực tế.
 
 ## Trách nhiệm:
+
 * Thiết kế, phát triển và đánh giá các mô hình Machine Learning.
 * Thu thập, làm sạch và xử lý dữ liệu phục vụ huấn luyện mô hình.
 * Huấn luyện, tinh chỉnh và tối ưu các mô hình Machine Learning và Deep Learning.
@@ -164,6 +177,7 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 * Ghi chép và tài liệu hóa quá trình thử nghiệm, mô hình và giải pháp kỹ thuật.
 
 ## Yêu cầu:
+
 * Tốt nghiệp hoặc đang theo học **Khoa học máy tính, Trí tuệ nhân tạo, Khoa học dữ liệu, Toán học** hoặc các ngành liên quan.
 * Có khả năng lập trình tốt bằng **Python**.
 * Nắm vững kiến thức về **Cấu trúc dữ liệu và Giải thuật**.
@@ -179,6 +193,7 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 * Có khả năng tư duy logic, phân tích và giải quyết vấn đề.
   
 ## Điểm cộng
+
 * Có kinh nghiệm với **NLP, Computer Vision hoặc Generative AI**.
 * Có kinh nghiệm với AWS, Azure hoặc Google Cloud.
 * Biết Docker hoặc Kubernetes.
@@ -186,6 +201,7 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 * Có dự án cá nhân, đồ án hoặc nghiên cứu liên quan đến AI/ML.
 
 ## Quyền lợi
+
 * Mức lương cạnh tranh dựa trên năng lực và kinh nghiệm.
 * Được tham gia các dự án AI/ML thực tế.
 * Được hướng dẫn bởi các kỹ sư có kinh nghiệm.
@@ -195,7 +211,8 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 
 - Tin tuyển dụng thật ra viết:
  
- # TUYỂN DỤNG DATA SCIENTIST #
+ ** TUYỂN DỤNG DATA SCIENTIST **
+
 **Địa điểm:** Đà Nẵng, Việt Nam 
 ** thời gian làm việc: Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
@@ -216,7 +233,7 @@ Chúng tôi đang tìm kiếm một **AI/ML Engineer** có đam mê công nghệ
 -Hướng dẫn, Review code và hỗ trợ nâng cao năng lực chuyên môn cho nhóm Nhân viên AI.
 -Tham gia thẩm định tính khả thi (Feasibility) và tư vấn kiến trúc kỹ thuật cho các dự án AI mới.
 
- **yêu cầu ứng viên:**
+ ** yêu cầu ứng viên: **
  
 -Tốt nghiệp Đại học trở lên chuyên ngành AI, Khoa học máy tính, Công nghệ thông tin, Toán tin hoặc các ngành liên quan.
 -Tối thiểu 3 - 5 năm kinh nghiệm làm việc trong lĩnh vực AI/Data Science, trong đó có ít nhất 1 - 2 năm kinh nghiệm thực tế triển khai các dự án GenAI/LLM/RAG.
@@ -241,16 +258,21 @@ Thời gian làm việc: Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
 - Tôi sửa thành:
 
    ** TUYỂN DỤNG AI/ML ENGINEER **
+
 **Địa điểm:** Đà Nẵng, Việt Nam
 **Hình thức:** Toàn thời gian
 **Kinh nghiệm:** 0–2 năm / Sinh viên mới tốt nghiệp
+
 ## Mô tả công việc: 
+
 * Thực hiện đúng tiến độ và chất lượng của các công việc,vận hành hệ thống server, nền tảng tự động hóa
 * Nghiên cứu, phát triển hệ thống AIoT giám sát thiết bị nhà máy
 * Xây dựng dashboard và tích hợp AI vào hệ thống để tối ưu vận hành
 * Đề xuất giải pháp cải tiến cho doanh nghiệp.
 * Thực hiện các công việc khác theo phân công của Quản lý.
+
 ## Yêu cầu:
+
 * Tốt nghiệp đại học trở lên
 * Chuyên ngành: Công nghệ thông tin, Khoa học máy tính, Kỹ thuật điều khiển - Tự động hóa, Trí tuệ nhân tạo hoặc liên quan
 * Nắm vững kiến thức về hệ thống server, mạng máy tính, cơ sở dữ liệu (SQL/NoSQL).
@@ -263,7 +285,9 @@ Thời gian làm việc: Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
 * Có khả năng đọc hiểu tài liệu chuyên ngành bằng tiếng Anh.
 * Có tư duy hệ thống, khả năng phân tích và giải quyết vấn đề kỹ thuật.
 * Có khả năng làm việc độc lập và phối hợp nhóm, chịu được áp lực công việc.
+
 ## Quyền lợi:
+
 * Thu nhập 15 – 25 triệu đồng/tháng, trao đổi trực tiếp theo năng lực và hiệu quả công việc.
 * Thưởng tháng lương 13 và thưởng hiệu quả cuối năm theo chính sách Công ty.
 * Được đóng đầy đủ BHXH, BHYT, BHTN theo quy định.
@@ -277,9 +301,10 @@ Thời gian làm việc: Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 - Phía luật sư công ty lập luận rằng: Việc thu thập thông tin vị trí người dùng để bổ sung cho tính năng mới hoạt động tốt nhất mà không xảy ra bất cứ sai sót nào. bởi vì ngày mai là hạn cuối của deadline nên không thể ghi rõ vào chính sách quyền riêng tư vì đây là bản cập nhật trước đó. Công ty tạm thời thu thập dữ liệu dưới dạng ẩn và sẽ cập nhật lại vào bản cải tiến tiếp theo. mục đích là để đảm bảo tiến độ như đã dự kiến.
 - Phía người dùng lập luận rằng: Đây là hành vi vi phạm quyền riêng tư của người dùng. Người dùng có quyền được biết những dữ liệu cá nhân nào đang bị khai thác. Việc thông tin vị trí đang bị công ty tự ý âm thầm theo dõi mà chưa có sự cho phép của người dùng, đây hoàn toàn là hành động vi phạm phạm phá luật 
-- **Quyết định của tôi**
-  là lùi lại ngày ra mắt hoặc vô hiệu hóa tính năng này cho đến khi chính sách quyền riêng tư được cập nhật và có sự chấp thuận từ người dùng.
+
+   -** quyết định của tôi **:hiệu hóa tính năng này cho đến khi chính sách quyền riêng tư được cập nhật và có sự chấp thuận từ người dùng.
   ** vì sao? **
+
   bởi vì: việc trễ ngày bàn giao dự án gây ảnh hưởng đến hoạt động và doanh thu của công ty nhưng rất ngắn nhưng nếu như vi phạm quyền riêng tư sẽ gây thiệt hại rất lớn về mặt tài chính lẫn niềm tin của khách hàng - đây là thứ một khi đã mất thì rất khó để có thể lấy lại được trong kinh doanh chữ tín luôn được đặt lên hàng đầu và đồng thời sẽ đẩy công ty vào tranh chấp kiện tụng rủi ro thua kiện là rất cao
 
 ## Ba việc tôi làm trong học kỳ này
