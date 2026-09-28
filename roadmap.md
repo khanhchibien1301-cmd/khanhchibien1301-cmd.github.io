@@ -7,7 +7,7 @@ title: Bản đồ học tập bốn năm
 ## Hướng tôi nhắm: kỹ sưa AI/ML và kỹ sư phần mềm
 
 ## bảy học kỳ:  
-https://notebook.google.com/notebook/eb0a806b-7592-472d-9a62-8cc441a1966d/artifact/83f77642-83fe-49f7-aa30-e74500ccc01d?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+https://notebook.google.com/notebook/eb0a806b-7592-472d-9a62-8cc441a1966d/artifact/83f77642-83fe-49f7-aa30-e74500ccc01d?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1
 
 ## Năm nhất
 
